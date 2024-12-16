@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikitavlnz
 - 👀 I’m interested in data engineering, science and analysis as well as project management of information services. 
-- 🌱 I’m currently a third year "computer science applied to business management" (MIAGE) student at Paris Sorbonne. 
+- 🌱 I’m currently doing a "computer science applied to business management" (MIAGE) Master's Degree at University Paris Panthéon Sorbonne. 
 - 💞️ I’m looking to collaborate on thrilling projects !
 - 📫 Reach me on LinkedIn : /nikitavalenza
 
